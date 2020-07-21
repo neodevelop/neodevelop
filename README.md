@@ -75,7 +75,7 @@ improveProgrammer model programmer =
 
 ### I'm huge fan of John McCarty!
 
-```lisp
+```clojure
 (me 
   (as 
     (a coder)))
@@ -96,7 +96,7 @@ tail -f application.log | awk '
   /info/ {print "\033[32m" $0 "\033[39m"}
   /debug/ {print "\033[34m" $0 "\033[39m"}
   /warn/ {print "\033[33m" $0 "\033[39m"}
-  /error/ {print "\033[31m" $0 "\033[39m"}
+  /error/ {print "\033[31m" $0 "\033[39m"}'
 ```
 
 I'm not a robot :robot:
