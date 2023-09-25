@@ -102,3 +102,5 @@ tail -f application.log | awk '
 I'm not a robot :robot:
 
 [![neodevelop's github stats](https://github-readme-stats.vercel.app/api?username=neodevelop)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neodevelop)](https://github.com/anuraghazra/github-readme-stats)
